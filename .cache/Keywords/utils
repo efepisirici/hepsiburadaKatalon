@@ -1,0 +1,80 @@
+{
+  "keywordFileContentHash": "9A4915A549F31BF38381B30098DB42F3",
+  "keywordClasses": [
+    {
+      "name": "utils",
+      "keywordMethods": [
+        {
+          "name": "horizontalSwipeByPercentage",
+          "parameters": [
+            {
+              "name": "startPercentage",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "double",
+                "unresolvedClassName": "double",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "endPercentage",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "double",
+                "unresolvedClassName": "double",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "anchorPercentage",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "double",
+                "unresolvedClassName": "double",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * yan scroll\r\n\t */"
+        },
+        {
+          "name": "setFav",
+          "parameters": [
+            {
+              "name": "fav",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * getter setter\r\n\t */"
+        },
+        {
+          "name": "getFav",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
